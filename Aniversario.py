@@ -1,0 +1,5 @@
+nome = input ('Qual o seu nome?')
+dia = input ('em que dia você nasceu?')
+mês = input ('em que mês você nasceu?')
+ano = input ('em que ano você nasceu?')
+print ('Você faz aniversario em :', dia,mês)
